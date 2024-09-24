@@ -10,24 +10,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 检查仓库
+      - name: Checkout repository
         uses: actions/checkout@v2
         with:
           submodules: true
           fetch-depth: 0
 
-      - name: 检测hugo
+      - name: Set up Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "latest"
 
-      - name: 编译和部署
+      - name: Build and Deploy
         run: |
           hugo -F --cleanDestinationDir  # 生成静态文件
           mkdir -p public  # 确保public文件夹存在
           cp -r public/* ./  # 复制生成的静态文件到仓库根目录
 
-      - name: 推送到开发页面
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }} # 你的个人访问令牌
