@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://yaoyoutain.github.io/sitemap.xml
