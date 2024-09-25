@@ -1,4 +1,5 @@
-baseURL: https://yaoyoutain.github.io/ # 绑定的域名
+# baseURL: https://yaoyoutain.github.io/ # 绑定的域名
+baseURL: https://8.134.130.26/ # 绑定的域名
 languageCode: zh # en-us
 defaultContentLanguage: zh # 最顶部首先展示的语言页面
 defaultContentLanguageInSubdir: false
