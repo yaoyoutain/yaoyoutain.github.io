@@ -2,51 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://8.134.130.26/posts/</loc>
+    <loc>http://8.134.130.26:8083/posts/</loc>
     <lastmod>2022-05-05T00:18:15+08:00</lastmod>
   </url><url>
-    <loc>http://8.134.130.26/tags/life/</loc>
+    <loc>http://8.134.130.26:8083/tags/life/</loc>
     <lastmod>2022-05-05T00:18:15+08:00</lastmod>
   </url><url>
-    <loc>http://8.134.130.26/posts/life/life/</loc>
+    <loc>http://8.134.130.26:8083/posts/life/life/</loc>
     <lastmod>2022-05-05T00:18:15+08:00</lastmod>
   </url><url>
-    <loc>http://8.134.130.26/posts/life/</loc>
+    <loc>http://8.134.130.26:8083/posts/life/</loc>
     <lastmod>2022-05-05T00:18:15+08:00</lastmod>
   </url><url>
-    <loc>http://8.134.130.26/tags/</loc>
+    <loc>http://8.134.130.26:8083/tags/</loc>
     <lastmod>2022-05-05T00:18:15+08:00</lastmod>
   </url><url>
-    <loc>http://8.134.130.26/</loc>
+    <loc>http://8.134.130.26:8083/</loc>
     <lastmod>2022-05-05T00:18:15+08:00</lastmod>
   </url><url>
-    <loc>http://8.134.130.26/posts/read/</loc>
+    <loc>http://8.134.130.26:8083/posts/read/</loc>
     <lastmod>2022-05-05T00:18:06+08:00</lastmod>
   </url><url>
-    <loc>http://8.134.130.26/tags/read/</loc>
+    <loc>http://8.134.130.26:8083/tags/read/</loc>
     <lastmod>2022-05-05T00:18:06+08:00</lastmod>
   </url><url>
-    <loc>http://8.134.130.26/posts/read/read/</loc>
+    <loc>http://8.134.130.26:8083/posts/read/read/</loc>
     <lastmod>2022-05-05T00:18:06+08:00</lastmod>
   </url><url>
-    <loc>http://8.134.130.26/posts/tech/</loc>
+    <loc>http://8.134.130.26:8083/posts/tech/</loc>
     <lastmod>2022-05-05T00:17:58+08:00</lastmod>
   </url><url>
-    <loc>http://8.134.130.26/tags/tech/</loc>
+    <loc>http://8.134.130.26:8083/tags/tech/</loc>
     <lastmod>2022-05-05T00:17:58+08:00</lastmod>
   </url><url>
-    <loc>http://8.134.130.26/posts/tech/tech/</loc>
+    <loc>http://8.134.130.26:8083/posts/tech/tech/</loc>
     <lastmod>2022-05-05T00:17:58+08:00</lastmod>
   </url><url>
-    <loc>http://8.134.130.26/about/</loc>
+    <loc>http://8.134.130.26:8083/about/</loc>
     <lastmod>2021-11-06T14:57:28+08:00</lastmod>
   </url><url>
-    <loc>http://8.134.130.26/archives/</loc>
+    <loc>http://8.134.130.26:8083/archives/</loc>
   </url><url>
-    <loc>http://8.134.130.26/search/</loc>
+    <loc>http://8.134.130.26:8083/search/</loc>
   </url><url>
-    <loc>http://8.134.130.26/categories/</loc>
+    <loc>http://8.134.130.26:8083/categories/</loc>
   </url><url>
-    <loc>http://8.134.130.26/series/</loc>
+    <loc>http://8.134.130.26:8083/series/</loc>
   </url>
 </urlset>
